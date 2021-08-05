@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Microsoft.Bot.Components.Samples.MultiplyDialog
+build_property.ProjectDir = C:\MicroTel\CustomAction\MultiplyDialog\

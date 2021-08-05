@@ -1,0 +1,10 @@
+C:\MicroTel\CustomAction\MultiplyDialog\bin\Debug\netcoreapp3.1\Microsoft.Bot.Components.Samples.MultiplyDialog.deps.json
+C:\MicroTel\CustomAction\MultiplyDialog\bin\Debug\netcoreapp3.1\Microsoft.Bot.Components.Samples.MultiplyDialog.dll
+C:\MicroTel\CustomAction\MultiplyDialog\bin\Debug\netcoreapp3.1\Microsoft.Bot.Components.Samples.MultiplyDialog.pdb
+C:\MicroTel\CustomAction\MultiplyDialog\obj\Debug\netcoreapp3.1\Microsoft.Bot.Components.Samples.MultiplyDialog.AssemblyInfoInputs.cache
+C:\MicroTel\CustomAction\MultiplyDialog\obj\Debug\netcoreapp3.1\Microsoft.Bot.Components.Samples.MultiplyDialog.AssemblyInfo.cs
+C:\MicroTel\CustomAction\MultiplyDialog\obj\Debug\netcoreapp3.1\Microsoft.Bot.Components.Samples.MultiplyDialog.csproj.CoreCompileInputs.cache
+C:\MicroTel\CustomAction\MultiplyDialog\obj\Debug\netcoreapp3.1\Microsoft.Bot.Components.Samples.MultiplyDialog.dll
+C:\MicroTel\CustomAction\MultiplyDialog\obj\Debug\netcoreapp3.1\Microsoft.Bot.Components.Samples.MultiplyDialog.pdb
+C:\MicroTel\CustomAction\MultiplyDialog\obj\Debug\netcoreapp3.1\Microsoft.Bot.Components.Samples.MultiplyDialog.csproj.AssemblyReference.cache
+C:\MicroTel\CustomAction\MultiplyDialog\obj\Debug\netcoreapp3.1\Microsoft.Bot.Components.Samples.MultiplyDialog.GeneratedMSBuildEditorConfig.editorconfig
